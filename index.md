@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Developer YUN_SangHo'
+title: Team_SCV WebPage
+landing-title: 'Develop Team_SCV'
 description: null
 image: null
 author: null
