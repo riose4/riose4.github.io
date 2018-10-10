@@ -1,15 +1,18 @@
 # site settings
-title: Developer
-subtitle: Developer SH
-email: riose2927@gmail.com
+title: Develop Team
+subtitle: Team_SCV
+email:  Team_Member1
+        Team_Member2
+        Team_Member3
+        Team_Member4
 description: A responsive site template designed by Developer Yun SangHo<br /> and released under the Creative Commons.
 baseurl:
 url: 
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: Deajun Munjung street 33, 
+city: Tan-bank
+state: Riviera Suit
+zip_code: The Sceond place
 country: Republic of Korea
 phone: (010) 4496-2415
 
