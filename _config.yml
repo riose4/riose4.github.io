@@ -1,10 +1,11 @@
 # site settings
-title: Develop Team
+title: Develop Team_SCV
 subtitle: Team_SCV
 email:  <b>[L.jaewoo]</b>leemjw87@naver.com<br>
-        <b>[S.yusu]</b>5678@gmail.com<br>
-        <b>[Y.sagnho]</b>riose2927@gmail.com><br>
-        <b>[P.Jeongkweon]</b>pjk280230@gmail.com</br>
+        <b>[S.yusu]</b>sys@naver.com<br>
+        <b>[Y.sagnho]</b>riose2927@gmail.com<br>
+        <b>[P.Jeongkweon]</b>pjk280230@gmail.com<br>
+        <b>[K.Hyunwook]</b>thy1348@gmail.com</br>
         
 description: A responsive site template designed by Developer Yun SangHo<br /> and released under the Creative Commons.
 baseurl:
@@ -19,6 +20,7 @@ phone: <b>[L.jaewoo]</b>010.6247.3940<br>
        <b>[S.yusu]</b>010.9936.1451<br>
        <b>[Y.sagnho]</b>010.4496.2415<br>
        <b>[P.Jeongkweon]</b>010.4433.2289</br>
+       <b>[K.Hyunwook]</b>010.3907.8112</br>
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
