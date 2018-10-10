@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hello.'
+landing-title: 'Developer YUN_SangHo'
 description: null
 image: null
 author: null
