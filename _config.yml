@@ -1,7 +1,7 @@
 # site settings
 title: Develop Team
 subtitle: Team_SCV
-email:  <b>[L.jaewoo]</b>1234@gmail.com<br>
+email:  <b>[L.jaewoo]</b>leemjw87@naver.com<br>
         <b>[S.yusu]</b>5678@gmail.com<br>
         <b>[Y.sagnho]</b>riose2927@gmail.com><br>
         <b>[P.Jeongkweon]</b>pjk280230@gmail.com</br>
@@ -15,7 +15,10 @@ city: Tan-bank
 state: Riviera Suit
 zip_code: The Sceond place
 country: Republic of Korea
-phone: (010) 4496-2415
+phone: <b>[L.jaewoo]</b>010.6247.3940<br>
+       <b>[S.yusu]</b>010.9936.1451<br>
+       <b>[Y.sagnho]</b>010.4496.2415<br>
+       <b>[P.Jeongkweon]</b>010.4433.2289</br>
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
