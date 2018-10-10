@@ -1,10 +1,11 @@
 # site settings
 title: Develop Team
 subtitle: Team_SCV
-email:  [L.jaewoo]<br>
-        [S.yusu]<br>
-        [Y.sagnho]riose2927@gmail.com><br>
-        [P.Jeongkweon]pjk280230@gmail.com
+email:  <b>[L.jaewoo]</b>1234@gmail.com<br>
+        <b>[S.yusu]</b>5678@gmail.com<br>
+        <b>[Y.sagnho]</b>riose2927@gmail.com><br>
+        <b>[P.Jeongkweon]</b>pjk280230@gmail.com</br>
+        
 description: A responsive site template designed by Developer Yun SangHo<br /> and released under the Creative Commons.
 baseurl:
 url: 
