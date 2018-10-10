@@ -1,10 +1,10 @@
 # site settings
 title: Develop Team
 subtitle: Team_SCV
-email:  Team_Member1
-        Team_Member2
-        Team_Member3
-        Team_Member4
+email:  Team_Member1<br> 
+        Team_Member2<br>
+        Team_Member3<br>
+        Team_Member4<br>
 description: A responsive site template designed by Developer Yun SangHo<br /> and released under the Creative Commons.
 baseurl:
 url: 
